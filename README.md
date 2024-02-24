@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Freelancing](https://www.upwork.com/freelancers/~01ae93c2d99059b224)
 
-- 🌱 I’m currently learning **Wordpress and Design**
+- 🌱 I’m currently learning **Web Design**
 
 - 💬 Ask me about **Life**
 
