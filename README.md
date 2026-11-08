@@ -9,8 +9,7 @@
   <a href="https://hassamsohail.com">Portfolio</a> ·
   <a href="https://hassamsohail.com/work">Work</a> ·
   <a href="https://hassamsohail.com/blog">Writing</a> ·
-  <a href="https://www.linkedin.com/in/hassam-sohail">LinkedIn</a> ·
-  <a href="mailto:hassamsohail86@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/hassam-sohail">LinkedIn</a>
 </p>
 
 I lead development and manage projects at **BoxBuy**, a hospitality company based in Poland, with 4+ years of professional software work across full-stack engineering, product decisions and delivery.
@@ -22,6 +21,14 @@ I lead development and manage projects at **BoxBuy**, a hospitality company base
 [![npm](https://img.shields.io/npm/v/@secretvariable/cli?label=%40secretvariable%2Fcli)](https://www.npmjs.com/package/@secretvariable/cli)
 [![CI](https://github.com/OxygenOP/SecretVariable/actions/workflows/ci.yml/badge.svg)](https://github.com/OxygenOP/SecretVariable/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/OxygenOP/SecretVariable/blob/main/LICENSE)
+
+<a href="https://www.secretvariable.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/secretvariable-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/secretvariable-light.png">
+    <img alt="SecretVariable: one home for every environment" src="assets/secretvariable-dark.png" width="100%">
+  </picture>
+</a>
 
 **An open-source, self-hosted home for your team's `.env` files.** Teams share environment files in chat threads and wikis, and nobody knows which copy is current. SecretVariable keeps them in one place:
 
@@ -44,9 +51,9 @@ It is early software, and honest about its limits: the encryption is server-side
 
 ## More work
 
-- **[MD File Editor](https://md-file-editor-website-five.vercel.app/)**: a local-first desktop and web app for reading, editing and exporting Markdown, with no account and no cloud upload.
-- **[Silicon Desert Media](https://silicondesertmedia.com/)**: a responsive company website built around clear services, visual work and inquiry paths.
-- **[Notes on software and product](https://hassamsohail.com/blog)**: practical writing about engineering decisions, interface design and the experiments behind them.
+- **[MD File Editor](https://md-file-editor-website-five.vercel.app/)**: a local-first desktop and web app for reading, editing and exporting Markdown, with no account and no cloud upload. *Designed and built by me.*
+- **[Silicon Desert Media](https://silicondesertmedia.com/)**: a responsive company website built around clear services, visual work and inquiry paths. *Built for a client.*
+- **[Notes on software and product](https://hassamsohail.com/blog)**: practical writing about engineering decisions, interface design and the experiments behind them. *Written by me.*
 
 ## How I work
 
