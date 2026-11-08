@@ -13,7 +13,7 @@
   <a href="mailto:hassamsohail86@gmail.com">Email</a>
 </p>
 
-I lead development and manage projects at **BoxBuy**, a hospitality company based in Poland. I work from Kuwait (GMT+3), with 4+ years of professional software work across full-stack engineering, product decisions and delivery.
+I lead development and manage projects at **BoxBuy**, a hospitality company based in Poland, with 4+ years of professional software work across full-stack engineering, product decisions and delivery.
 
 ---
 
